@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>088BBE06-F688-4542-BB14-5913507C7E1B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Flann</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>64405C4A-5F14-4843-905A-4CD08A33B04B</key>
+		<string>https://bitbucket.org/phamducgiam/flann.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Flann.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>64405C4A-5F14-4843-905A-4CD08A33B04B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/phamducgiam/flann.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>64405C4A-5F14-4843-905A-4CD08A33B04B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>64405C4A-5F14-4843-905A-4CD08A33B04B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Flann</string>
+		</dict>
+	</array>
+</dict>
+</plist>
